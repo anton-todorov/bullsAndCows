@@ -80,20 +80,8 @@ namespace bullsAndCows
                         {
                             if (input[initialDigitPosition] == guessing[guessingDigitPosition])
                             {
-                                if (initialDigitPosition == guessingDigitPosition)
-                                {
-                                    //Console.WriteLine($"Digit is: {input[initialDigitPosition]} or {guessing[guessingDigitPosition]}");
-                                    //Console.WriteLine($"Positions are: InitialPosition: {initialDigitPosition+1} GuessingPosition: {guessingDigitPosition+1}");
-                                    //Console.WriteLine("Bull!");
-                                    bulls++;
-                                }
-                                else
-                                {
-                                    //Console.WriteLine($"Digit is: {input[initialDigitPosition]} or {guessing[guessingDigitPosition]}");
-                                    //Console.WriteLine($"Positions are: InitialPosition: {initialDigitPosition+1} GuessingPosition: {guessingDigitPosition+1}");
-                                    //Console.WriteLine("Cow!");
-                                    cows++;
-                                }
+                                if (initialDigitPosition == guessingDigitPosition) bulls++;
+                                else cows++;
                             }
                         }
                     }
