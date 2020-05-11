@@ -2,7 +2,7 @@
 The game of Bulls and Cows in console .Net core version
 
 ## About
-[Bulls and Cows](https://en.wikipedia.org/wiki/Bulls_and_Cows) (also known as **Cows and Bulls** or **Pigs and Bulls**) is an old code-breaking mind or paper and pencil game for two or more players, predating the commercially marketed board game Mastermind (https://en.wikipedia.org/wiki/Mastermind_(board_game)).
+[Bulls and Cows](https://en.wikipedia.org/wiki/Bulls_and_Cows) (also known as **Cows and Bulls** or **Pigs and Bulls**) is an old code-breaking mind or paper and pencil game for two or more players, predating the commercially marketed board game [Mastermind](https://en.wikipedia.org/wiki/Mastermind_(board_game)).
 
 It is a game that may date back a century or more which uses numbers or words. It is played by two opponents.
 
